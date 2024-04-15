@@ -1,4 +1,4 @@
-#####  💫 Hi, I am TSITERA D'Orus
+#  💫 Hi, I am TSITERA D'Orus
 Electronic engineer  in embedded systems
 
 
