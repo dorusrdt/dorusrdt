@@ -1,22 +1,50 @@
-#  💫 Hi, I am TSITERA D'Orus
-Electronic engineer  in embedded systems
+## TSITERA D'Orus 
 
+**Electronic Engineer specializing in Embedded Systems**
 
-##### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RANDRIANIAINATSITERA D'Orus) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Gasy Tech) 
+I am a passionate and results-oriented Electronic Engineer with expertise in designing, developing, and implementing embedded systems. I possess a strong foundation in hardware and software integration, enabling me to create efficient and reliable solutions for various applications.
 
-##### 💻 Tech Stach:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+**Technical Skills:**
 
-##### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dorusrdt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dorusrdt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dorusrdt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+* **Embedded Systems:** Microcontrollers (ARM, AVR, etc.), Real-Time Operating Systems (RTOS), C/C++, Assembly Language
+* **Hardware Design:** Schematic capture, PCB layout, Digital electronics, Analog electronics
+* **Software Development:** Object-oriented programming, Version control systems (Git)
+* **Debugging and Testing:** Hardware debugging tools, Unit testing, Integration testing
 
-##### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Projects:**
 
----
-[![](https://visitcount.itsvg.in/api?id=dorusrdt&icon=0&color=0)](https://visitcount.itsvg.in)
+* (Link to your most relevant project 1) - Briefly describe the project, its goals, and your contributions.
+* (Link to your most relevant project 2) - Briefly describe the project, its goals, and your contributions.
+* (Add more project links as needed)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Education:**
+
+* (Your degree) in Electronic Engineering - (University name), (Graduation year)
+
+**Open to:**
+
+* Full-time Embedded Systems Engineer positions
+* Freelance or contract opportunities in embedded systems development
+
+**Contact:**
+
+* Email: (Your professional email address)
+* LinkedIn: (Your LinkedIn profile URL)
+
+**Languages:**
+
+* (List your languages and proficiency levels)
+
+**Disclaimer:**
+
+This is a template to get you started. Feel free to customize it to accurately reflect your skills, experience, and interests. 
+
+Here are some additional tips for creating a compelling README profile:
+
+* **Tailor it to your target audience:**  Consider the types of jobs or projects you're interested in and highlight the skills and experience most relevant to them.
+* **Quantify your accomplishments:**  Whenever possible, use metrics to showcase the impact of your work. For example, instead of simply saying "developed an embedded system," you could say "developed an embedded system that reduced power consumption by 20%."
+* **Keep it concise and up-to-date:**  Aim for a length of 1-2 pages and update it regularly as you gain new skills and experience.
+* **Proofread carefully:**  Typos and grammatical errors can create a negative impression.
+
+I hope this helps you create a strong README profile that will attract potential employers and collaborators!
+
