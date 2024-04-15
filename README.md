@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://github.com/dorusrdt/dorusrdt/blob/main/gasy%20tech%20test%20banner.png" /> </p>
 <h3 align="center">A passionate Electronic engineer in embedded systems. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 - 🔭 I’m currently working on **Kalman Filter**
