@@ -1,52 +1,26 @@
-## TSITERA D'Orus 
+<h1 align="center">Hi 👋, I'm TSITERA D'Orus</h1>
+<h3 align="center">Electronic engineer in embedded systems</h3>
 
-**Electronic Engineer specializing in Embedded Systems**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorusrdt&label=Profile%20views&color=0e75b6&style=flat" alt="dorusrdt" /> </p>
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+- 🔭 I’m currently working on **Kalman Filter**
 
-I am a passionate and results-oriented Electronic Engineer with expertise in designing, developing, and implementing embedded systems. I possess a strong foundation in hardware and software integration, enabling me to create efficient and reliable solutions for various applications.
+- 🌱 I’m currently learning **Kalman Filter**
 
-**Technical Skills:**
+- 📫 How to reach me **dorustsitera@gmail.com**
 
-* **Embedded Systems:** Microcontrollers (ARM, AVR, etc.), Real-Time Operating Systems (RTOS), C/C++, Assembly Language
-* **Hardware Design:** Schematic capture, PCB layout, Digital electronics, Analog electronics
-* **Software Development:** Object-oriented programming, Version control systems (Git)
-* **Debugging and Testing:** Hardware debugging tools, Unit testing, Integration testing
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/randrianiainatsitera d'orus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="randrianiainatsitera d'orus" height="30" width="40" /></a>
+<a href="https://instagram.com/dorus_rdt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dorus_rdt" height="30" width="40" /></a>
+</p>
 
-**Projects:**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-* (Link to your most relevant project 1) - Briefly describe the project, its goals, and your contributions.
-* (Link to your most relevant project 2) - Briefly describe the project, its goals, and your contributions.
-* (Add more project links as needed)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorusrdt&show_icons=true&locale=en&layout=compact" alt="dorusrdt" /></p>
 
-**Education:**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dorusrdt&show_icons=true&locale=en" alt="dorusrdt" /></p>
 
-* (Your degree) in Electronic Engineering - (University name), (Graduation year)
-
-**Open to:**
-
-* Full-time Embedded Systems Engineer positions
-* Freelance or contract opportunities in embedded systems development
-
-**Contact:**
-
-* Email: (Your professional email address)
-* LinkedIn: (Your LinkedIn profile URL)
-
-**Languages:**
-
-* (List your languages and proficiency levels)
-
-**Disclaimer:**
-
-This is a template to get you started. Feel free to customize it to accurately reflect your skills, experience, and interests. 
-
-Here are some additional tips for creating a compelling README profile:
-
-* **Tailor it to your target audience:**  Consider the types of jobs or projects you're interested in and highlight the skills and experience most relevant to them.
-* **Quantify your accomplishments:**  Whenever possible, use metrics to showcase the impact of your work. For example, instead of simply saying "developed an embedded system," you could say "developed an embedded system that reduced power consumption by 20%."
-* **Keep it concise and up-to-date:**  Aim for a length of 1-2 pages and update it regularly as you gain new skills and experience.
-* **Proofread carefully:**  Typos and grammatical errors can create a negative impression.
-
-I hope this helps you create a strong README profile that will attract potential employers and collaborators!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dorusrdt&" alt="dorusrdt" /></p>
 
