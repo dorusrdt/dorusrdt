@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm TSITERA D'Orus</h1>
 <h3 align="center">Electronic engineer in embedded systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorusrdt&label=Profile%20views&color=0e75b6&style=flat" alt="dorusrdt" /> </p>
+<p align="left"> <img src="https://github.com/dorusrdt/dorusrdt/blob/main/gasy%20tech%20test%20banner.png" /> </p>
+
+
 
 - 🔭 I’m currently working on **Kalman Filter**
 
