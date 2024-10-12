@@ -2,7 +2,7 @@
 
 
 <p align="left"> <img src="https://github.com/dorusrdt/dorusrdt/blob/main/gasy%20tech%20test%20banner.png" /> </p>
-<h3 align="center">A passionate Electronic engineer in embedded systems. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
+<h3 align="center">A passionate Electronic engineer in embedded systems.</h3>
 
 
 
